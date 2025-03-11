@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio.github.io/static/css/main.fbc00891.css",
-    "main.js": "/portfolio.github.io/static/js/main.80c06b11.js",
-    "static/media/Image_AI_adil.jpeg": "/portfolio.github.io/static/media/Image_AI_adil.13acaa27db5fb5d509de.jpeg",
-    "index.html": "/portfolio.github.io/index.html"
+    "main.css": "/portfolio/static/css/main.fbc00891.css",
+    "main.js": "/portfolio/static/js/main.ed50af61.js",
+    "static/media/Image_AI_adil.jpeg": "/portfolio/static/media/Image_AI_adil.13acaa27db5fb5d509de.jpeg",
+    "index.html": "/portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.80c06b11.js"
+    "static/js/main.ed50af61.js"
   ]
 }
